@@ -36,3 +36,4 @@ override.tf.json
 terraform.rc
 venv
 clouds.yaml
+.idea
